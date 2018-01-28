@@ -1,4 +1,7 @@
 # Prefix-css
+
+Hello, I'm prefix and I can help you to get rid off all the stupid css defaults that you don't need to use in your website or with the help of little bit smart combination of CSS will save your lots of css code that helps to decrease size of your CSS file and increase speed of your website.
+
 Prefix can manage or handle your website default CSS and help to code easily, Basically it is your reset or normalizer CSS with some new CSS code.
 
 
