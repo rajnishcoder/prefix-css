@@ -5,7 +5,7 @@ Prefix can manage or handle your website default CSS and help to code easily, Ba
 
 # How To Use
 
-1. Use <mid> </mid> tag with width to make a box in center that's all.
+1. Use `<mid> </mid>` tag with width to make a box in center that's all.
 
 2. Don't write display block and float left for any element (Don't worry I'll do this for you).
 
