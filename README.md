@@ -15,3 +15,13 @@ Prefix can manage or handle your website default CSS and help to code easily, Ba
 3. Add prefix on top in your head tag to load first.
 
 4. Note:- Use only when you are going to start development of your website.
+
+
+
+# What's New in Prefix version 2.1
+
+1. Remove command tag compatibility
+
+2. Fix list item properties.
+
+3. Fix default line height.
