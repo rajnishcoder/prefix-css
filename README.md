@@ -10,7 +10,7 @@ Prefix can manage or handle your website default CSS and help to code easily, Ba
 
 1. Use `<mid> </mid>` tag with width to make a box in center that's all.
 
-2. Don't write display block and float left for any element (Don't worry I'll do this for you).
+2. Don't write `display block` and float left for any element (Don't worry I'll do this for you).
 
 3. Add prefix on top inside your `<head> </head>` tag to load first.
 
