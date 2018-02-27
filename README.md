@@ -20,7 +20,7 @@ Prefix can manage or handle your website default CSS and help to code easily, Ba
 
 # What's New in Prefix version 2.1
 
-1. Remove command tag compatibility
+1. Remove command tag compatibility.
 
 2. Fix list item properties.
 
