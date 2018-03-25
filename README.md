@@ -27,4 +27,3 @@ Prefix can manage or handle your website default CSS and help to code easily, Ba
 3. Fix default line height.
 
 
-[Website](http://prefix.codolog.com/)
